@@ -83,7 +83,7 @@ These results highlight the strong generalization capability of our approach acr
 
 ## 🧪 Experimental Highlights
 
-- 📈 Ablation studies to test individual components (e.g., effect of attention, impact of fusion depth)
+- 📈 Model Hyperparameter Tuning (e.g. impact of fusion depth, effect of uncertainty mechanism, etc)
 - 🧊 Data augmentation for SAR (rotation, flipping, speckle simulation)
 - 🧮 K-Fold cross-validation for performance stability
 - 💡 Insights on false positives near riverbanks
